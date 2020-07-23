@@ -51,7 +51,7 @@ h1 {
     margin-right: auto;
     width: 500px;
     height: 800px;
-    overflow: auto;
+    overflow: scroll;
 }
 
 h2 {
